@@ -8,7 +8,7 @@ image:
   repository: cyberpunk777/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "17431333450"
+  tag: "17431474298"
 
 ingress:
   enabled: false
