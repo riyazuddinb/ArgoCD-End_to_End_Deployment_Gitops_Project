@@ -83,3 +83,6 @@ We will use Argo CD to implement CD for the Go web application. Argo CD is a dec
 The Argo CD application will deploy the Go web application to a Kubernetes cluster. The application will be automatically synced with the Git repository, ensuring that the application is always up to date.
 
 ## Conclusion
+
+This project demonstrates how DevOps practices can be applied to a simple Go web application. By leveraging Docker, GitHub Actions, and Argo CD, we achieve containerization, automated CI/CD, and GitOps-driven deployment. This ensures faster delivery, consistency, and reliability across development and production environments.
+
